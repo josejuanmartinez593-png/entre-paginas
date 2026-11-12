@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.netlify.neon_hummingbird_26e59e.twa",
+        "sha256_cert_fingerprints": ["3D:52:F5:99:3C:15:5E:CD:EE:5E:1A:B5:F7:3A:4C:7C:1D:1C:FA:56:41:98:55:E3:98:5E:B7:6E:1C:EB:FB:35"]
+      }
+    }] 
